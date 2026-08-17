@@ -156,3 +156,24 @@ Verified:
 
 
 <img width="1024" height="768" alt="Active-Directory-Overview" src="https://github.com/user-attachments/assets/e7b72ca1-3fa0-4ac4-a626-f2a4c77db52a" />
+## Screenshot Evidence
+
+This repository includes 152 screenshots documenting the lab from initial server setup through Active Directory administration, DNS, DHCP, Group Policy, file sharing, client 
+testing, and troubleshooting.
+
+Screenshots are organized under:
+
+```text
+Screenshots/
+├── 01-Lab-Overview/
+├── 02-Windows-Server-Installation/
+├── 03-Active-Directory/
+├── 04-DNS/
+├── 05-DHCP/
+├── 06-GPOs/
+├── 07-Shared-Folder/
+├── 08-Testing-&-Validation/
+├── 09-ClientComputers/
+└── 10-Troubleshooting/
+
+Documentation/network_architecture_diagram.pdf
